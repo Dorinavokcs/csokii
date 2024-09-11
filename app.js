@@ -93,6 +93,7 @@ const makeBoxes = () => {
       <h3>${name}</h3>
       <p>${description}</p>
       <p>${price}</p>
+      <button class="add-to-cart-btn">Kosárban</button>
   </div>` );
   return content;
 }
