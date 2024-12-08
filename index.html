@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="./style.css">
-    <script src="app.js"></script>
+    <script src="app.js" defer></script>
 </head>
 <body>
     <header>
@@ -17,9 +17,9 @@
         <h2>Keresés ár alapján</h2>
         <div class="price-filter">
             <label for="min-price">Min ár: </label>
-            <input type="number" id="min-price" placeholder="Min ár">
+            <input type="number" id="min-price" placeholder="Min ár" value="0">
             <label for="max-price">Max ár: </label>
-            <input type="number" id="max-price" placeholder="Max ár">
+            <input type="number" id="max-price" placeholder="Max ár" value="0">
             <button id="filter-btn">Szűrés</button>
         </div>
     </section>
