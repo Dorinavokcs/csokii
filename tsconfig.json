@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "rootDir": "./frontend/src",
+    "outDir": "./frontend/dist",
+    "strict": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "esModuleInterop": true
+  },
+  "exclude": ["./node_modules"],
+  "include": ["./frontend/src/**/*.ts"]
+}

@@ -1,0 +1,7 @@
+banán;300;/img/banán.jpg;Az banán egészséges és finom.;1
+körte;500;/img/körte.jpg;A körte gazdag rostokban.;2
+citrom;400;/img/citrom.jpg;A citrom savanykás.;3
+barack;700;/img/barack.jpg;Finom koranyári gyümölcs;4
+málna;600;/img/malna.jpg;A maci is szereti.;5
+szőlő;500;/img/szolo.jpg;Ha nem eszel meg, mazsola leszek.;6
+ananász;500;/img/sananászolo.jpg;Ha nem eszel meg, ananász.;6
